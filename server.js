@@ -7,3 +7,7 @@ http.createServer(function (req, res) {
 
 // this is a comment
 //and have another one
+console.log('this is some Azure gubbins')
+console.log('and this is some further text')
+if(5>3) console.log('you shouldn'/'t see this)
+
